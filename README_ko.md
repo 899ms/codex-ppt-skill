@@ -241,10 +241,6 @@ skill은 다음 워크플로를 따릅니다:
 
 문제가 있나요? [사용 설명서](https://ningzimu.github.io/codex-ppt-skill/#/ko/)를 확인하고, [CodexPPT](https://t.me/CodexPPT)에 참여하거나, [Issue를 등록하세요](https://github.com/ningzimu/codex-ppt-skill/issues/new).
 
-QR 코드를 스캔하여 WeChat 커뮤니티 그룹에 참여하고, 사용 경험을 공유하고, 문제를 제보하고, 업데이트 알림을 받아보세요.
-
-<img src="assets/codex-ppt-community-qr.png" alt="Codex PPT WeChat 커뮤니티 그룹 QR 코드" width="220">
-
 ## 라이선스
 
 MIT
