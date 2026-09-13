@@ -6,7 +6,7 @@ Release notes are generated from this file. Keep changelog entries in English.
 
 ### Documentation
 
-- Restore the WeChat community QR code to the support section across all README language versions.
+- Restore the WeChat community QR code to the support section across all README language versions. (#103)
 
 ## 0.6.0
 
