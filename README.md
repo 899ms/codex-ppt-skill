@@ -241,6 +241,10 @@ skill 会按以下流程执行：
 
 遇到问题？请查看[使用文档](https://ningzimu.github.io/codex-ppt-skill/#/)，加入 [CodexPPT](https://t.me/CodexPPT)，或[提交 Issue](https://github.com/ningzimu/codex-ppt-skill/issues/new)。
 
+扫描二维码加入微信交流群，分享使用经验、反馈问题，并获取更新通知。
+
+<img src="assets/codex-ppt-community-qr.png" alt="Codex PPT 微信交流群二维码" width="220">
+
 ## 许可证
 
 MIT
