@@ -241,6 +241,10 @@ The skill follows this workflow:
 
 Having trouble? Check the [usage documentation](https://ningzimu.github.io/codex-ppt-skill/#/en/), join [CodexPPT](https://t.me/CodexPPT), or [open an issue](https://github.com/ningzimu/codex-ppt-skill/issues/new).
 
+Scan the QR code to join the WeChat community group, share your experience, report issues, and receive update notifications.
+
+<img src="assets/codex-ppt-community-qr.png" alt="Codex PPT WeChat community group QR code" width="220">
+
 ## License
 
 MIT
