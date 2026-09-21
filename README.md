@@ -241,7 +241,7 @@ skill 会按以下流程执行：
 
 遇到问题？请查看[使用文档](https://ningzimu.github.io/codex-ppt-skill/#/)，加入 [CodexPPT](https://t.me/CodexPPT)，或[提交 Issue](https://github.com/ningzimu/codex-ppt-skill/issues/new)。
 
-<img width="220" alt="微信 2026-09-13 13 27 42" src="https://github.com/user-attachments/assets/e3df121d-7c26-49e5-b953-b9d0dbfb39ed" />
+<img width="220" alt="Snipaste_2026-09-21_22-17-36" src="https://github.com/user-attachments/assets/81f6497e-4e31-4add-9491-2bf7a3ed0e7d" />
 
 ## 许可证
 
