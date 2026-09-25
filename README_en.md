@@ -6,6 +6,8 @@
 
 A Codex skill for generating PowerPoint decks. It can also be used in Claude Code, OpenClaw, Hermes Agent, and other agents that support `SKILL.md`; these non-Codex environments usually require configuring `gpt-image-2.5-flare`, a third-party image API, or an OpenAI-compatible image generation endpoint. It turns articles, reports, papers, course notes, and other source materials into image-based presentations: first plan the outline and visual style, then generate each full-slide image, and finally assemble the images into a `.pptx` file with a local script.
 
+https://github.com/user-attachments/assets/ad0fa884-87e4-4528-8030-f2dd0211693c
+
 ## Sponsor
 
 <table>
